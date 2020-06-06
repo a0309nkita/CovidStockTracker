@@ -1,40 +1,45 @@
-# Contents
+## Contents
 
 1.  Short description
 2.  Demo video
 3.  The architecture
-4.  Long description
-5.  Project roadmap
-6.  Getting started
-7.  Running the tests
-8.  Live demo
-9.  Built with
- 10. Contributing
- 11. Versioning
- 12. Authors
- 13. License
- 14. Acknowledgments
+4.  Project roadmap
+5.  Getting started
+6.  Built with
+7.  Authors 
 
-# Short description
+## Short description
 
-## Problem Statement:
+### Problem Statement:
 During uncontrollable epidemic and pandemic situation, it is highly precautionary to maintain hygiene. Henceforth, public is essential to wear Personal Protective Equipment such as kits, masks, gloves, gowns, to safeguard their health.
 In the current Covid situation there exists no standard marketplace/platform for frontline health workers to buy required medical equipment.
  
-## Idea:
+### Idea:
 It is obvious to have a marketplace where it can facilitate to get the personal safeguards during exigency such as COVID-19, accessible to all frontline workers.
  
-## How can technology help?
+### How can technology help?
 This web portal can continue to serve the frontline workers to place order according to their need to purchase PPE gears, additionally it provides the easy way to users to order products in bulk from differenr manufaturers at once.
  
-## Solution:
+### Solution:
 Covid Stock Tracker(CST) is a web portal created for frontline workers to find the protective gears such as masks, gloves, gowns etc. Suppliers/Sellers will be able to input the product related information into CST which will then be accessed by the Frontline workers and they can place the orders as required. This can help them to better prepare and to provide quality care to the patients and help save lives to not only the patients but to protect themselves.
 
-# Demo video
+## Demo video
 
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8sEVY37aIoE/0.jpg)](https://www.youtube.com/watch?v=8sEVY37aIoE)
 
-## CovidStockTracker 
+## The architecture
+
+
+
+
+
+## Project Roadmap
+
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/homepage.png "Home Page")
+
+
+
+## Getting Started 
 
 
 Developed an end to end **Ecommerce web Application using Spring MVC** with multiple
@@ -128,3 +133,17 @@ modules
 * Product List Page:
 
 ![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/ProductList.png "Product List Page")
+
+## Built With
+
+1. * [Apache Server](https://tomcat.apache.org/download-90.cgi)
+2. * [H2 Database](http://www.h2database.com/html/download.html)
+3. * [Maven](https://maven.apache.org/download.cgi)
+4. * [IBM Cloud Functions](https://cloud.ibm.com/functions/)
+5. * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+6. * [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
+
+## Authors
+
+See list of * [Contributors](https://github.com/a0309nkita/CovidStockTracker/graphs/contributors) who participated in this project.
+
