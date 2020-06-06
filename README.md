@@ -29,13 +29,11 @@ Covid Stock Tracker(CST) is a web portal created for frontline workers to find t
 
 ## The architecture
 
-
-
-
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/Architecture.png)
 
 ## Project Roadmap
 
-![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/homepage.png "Home Page")
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/RoadMap.png)
 
 
 
