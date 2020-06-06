@@ -58,7 +58,19 @@
 			<ul class="nav navbar-nav navbar-right">
 
 				<c:if test="${!empty pageContext.request.userPrincipal.name}">
-				<li><a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=29fe1a1c-cc36-4011-8577-8275a5981b8a&serviceInstanceID=4897a600-444c-404c-8759-a3d6cd8e21a8">Ask me
+				<li><a> <script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "975b392a-30ea-4cba-ab2e-722a6c2dfe45", // The ID of this integration.
+      region: "us-south", // The region your integration is hosted in.
+      serviceInstanceID: "4897a600-444c-404c-8759-a3d6cd8e21a8", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
 				 </a></li>
 					<li><a href="<c:url value="/index1" />"><span
 							class="glyphicon glyphicon-shopping-user"></span>Welcome..${pageContext.request.userPrincipal.name}</a></li>
