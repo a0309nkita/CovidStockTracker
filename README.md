@@ -87,9 +87,13 @@ modules
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/homepage.png "Home Page")
+
+* Product List Page:
+
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/ProductList.png "Product List Page")
 
 * Contact Us:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/ContactUs.png)
 
