@@ -32,7 +32,7 @@ Covid Stock Tracker(CST) is a web portal created for frontline workers to find t
 
 # Demo video
 
- ![Alt text](https://www.youtube.com/watch?v=8sEVY37aIoE)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8sEVY37aIoE/0.jpg)](https://www.youtube.com/watch?v=8sEVY37aIoE)
 
 ## CovidStockTracker 
 
