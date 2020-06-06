@@ -1,10 +1,9 @@
-# ShoppingCart [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart) [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+# CovidStockTracker 
 
 
 Developed an end to end **Ecommerce web Application using Spring MVC** with multiple
 modules
 
-## Project is not maintained anymore [here #56](https://github.com/ikismail/ShoppingCart/issues/56#issue-606454548)
 
 ### Functionalities:
 
@@ -45,7 +44,7 @@ modules
    * [Download IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
 2. Server - Apache Tomcat Server
 
-   * [Download Apache Server](https://tomcat.apache.org/download-70.cgi)
+   * [Download Apache Server](https://tomcat.apache.org/download-90.cgi)
 
 3. Build Tool - Maven
 
@@ -55,13 +54,13 @@ modules
 
    * [Download H2 Database](http://www.h2database.com/html/download.html)
 
-5. Configuring tomcat with Eclipse (windows) - [Click Here](https://javatutorial.net/run-tomcat-from-eclipse)
+5. Configuring tomcat with Eclipse - [Click Here](https://javatutorial.net/run-tomcat-from-eclipse)
 
 6. Installation of maven in eclipse - [Click Here](https://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation)
 
 7. Clone the repository and import it to eclipse
 
-8. Run your H2 Database.
+8. Run H2 Database.
 
 9. Configure your databse configuration in **application-context.xml**
 
@@ -83,15 +82,6 @@ modules
             <prop key="hibernate.dialect">YOUR DB DIALECT</prop>
 
 10. Run the server.
-
-#### Somethings wrong!!
-
-If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker, 
-or take it as a task and 🧑‍💻 resolve it 💪 --> create a PullRequest 🛠.
-
-#### Contribution
-
-Contributors are most welcome.
 
 ### ScreenShots:
 
