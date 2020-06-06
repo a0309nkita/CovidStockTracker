@@ -34,12 +34,10 @@
 
 		<div class="container-fluid bg-2 text-center">
 			<h3>What Am I?</h3>
-			<div id="para"><p>Covid Stock Tracker(CST) is a portal for frontline workers to enter their request for needing protective gears such as masks, gloves, gowns.</p>
+			<div id="para"><p>Covid Stock Tracker(CST) is a web portal created for frontline workers to find the protective gears such as masks, gloves, gowns etc. Suppliers/Sellers will be able to input the product related information into CST which will then be accessed by the Frontline workers and they can place the orders as required.</p>
 			</div>
-			<div id="para"><p>We can gather information from local private and public agencies in each state to find out where these businesses/communities/makers are situated so we can have their information in our database and then we can use that information to route the request to specific maker to fulfill this request.</p>
+			<div id="para"><p>This can help them to better prepare and to provide quality care to the patients and help save lives of not only the patients but to protect themselves.</p>
 			</div>
-			<div id="para"><p>It will help the front line workers to better prepare and to provide quality care to the patients and help save lives to not only the patients but to protect themselves.</p>
-		</div></div>
 	</div>
 	
 <!-- 	importing footer  -->
