@@ -136,14 +136,14 @@ modules
 
 ## Built With
 
-1. * [Apache Server](https://tomcat.apache.org/download-90.cgi)
-2. * [H2 Database](http://www.h2database.com/html/download.html)
-3. * [Maven](https://maven.apache.org/download.cgi)
-4. * [IBM Cloud Functions](https://cloud.ibm.com/functions/)
-5. * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
-6. * [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
+ * [Apache Server](https://tomcat.apache.org/download-90.cgi)
+ * [H2 Database](http://www.h2database.com/html/download.html)
+ * [Maven](https://maven.apache.org/download.cgi)
+ * [IBM Cloud Functions](https://cloud.ibm.com/functions/)
+ * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+ * [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
 
 ## Authors
 
-See list of * [Contributors](https://github.com/a0309nkita/CovidStockTracker/graphs/contributors) who participated in this project.
+See list of [Contributors](https://github.com/a0309nkita/CovidStockTracker/graphs/contributors) who participated in this project.
 
