@@ -1,4 +1,45 @@
-# CovidStockTracker 
+## Contents
+
+1.  Short description
+2.  Demo video
+3.  The architecture
+4.  Project roadmap
+5.  Getting started
+6.  Built with
+7.  Authors 
+
+## Short description
+
+### Problem Statement:
+During uncontrollable epidemic and pandemic situation, it is highly precautionary to maintain hygiene. Henceforth, public is essential to wear Personal Protective Equipment such as kits, masks, gloves, gowns, to safeguard their health.
+In the current Covid situation there exists no standard marketplace/platform for frontline health workers to buy required medical equipment.
+ 
+### Idea:
+It is obvious to have a marketplace where it can facilitate to get the personal safeguards during exigency such as COVID-19, accessible to all frontline workers.
+ 
+### How can technology help?
+This web portal can continue to serve the frontline workers to place order according to their need to purchase PPE gears, additionally it provides the easy way to users to order products in bulk from differenr manufaturers at once.
+ 
+### Solution:
+Covid Stock Tracker(CST) is a web portal created for frontline workers to find the protective gears such as masks, gloves, gowns etc. Suppliers/Sellers will be able to input the product related information into CST which will then be accessed by the Frontline workers and they can place the orders as required. This can help them to better prepare and to provide quality care to the patients and help save lives to not only the patients but to protect themselves.
+
+## Demo video
+
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8sEVY37aIoE/0.jpg)](https://www.youtube.com/watch?v=8sEVY37aIoE)
+
+## The architecture
+
+
+
+
+
+## Project Roadmap
+
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/homepage.png "Home Page")
+
+
+
+## Getting Started 
 
 
 Developed an end to end **Ecommerce web Application using Spring MVC** with multiple
@@ -87,9 +128,22 @@ modules
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/homepage.png "Home Page")
 
-* Contact Us:
+* Product List Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
+![Alt text](https://github.com/a0309nkita/CovidStockTracker/blob/master/src/main/webapp/WEB-INF/resource/images/ProductList.png "Product List Page")
+
+## Built With
+
+ * [Apache Server](https://tomcat.apache.org/download-90.cgi)
+ * [H2 Database](http://www.h2database.com/html/download.html)
+ * [Maven](https://maven.apache.org/download.cgi)
+ * [IBM Cloud Functions](https://cloud.ibm.com/functions/)
+ * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+ * [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
+
+## Authors
+
+See list of [Contributors](https://github.com/a0309nkita/CovidStockTracker/graphs/contributors) who participated in this project.
 
