@@ -1,12 +1,12 @@
 ## Contents
 
-1.  Short description
-2.  Demo video
-3.  The architecture
-4.  Project roadmap
-5.  Getting started
-6.  Built with
-7.  Authors 
+1.  [Short description](https://github.com/a0309nkita/CovidStockTracker/blob/master/README.md#short-description)
+2.  [Demo video](https://github.com/a0309nkita/CovidStockTracker#demo-video)
+3.  [The architecture](https://github.com/a0309nkita/CovidStockTracker#the-architecture)
+4.  [Project roadmap](https://github.com/a0309nkita/CovidStockTracker#project-roadmap)
+5.  [Getting started](https://github.com/a0309nkita/CovidStockTracker#getting-started)
+6.  [Built with](https://github.com/a0309nkita/CovidStockTracker#built-with)
+7.  [Authors](https://github.com/a0309nkita/CovidStockTracker#authors) 
 
 ## Short description
 
