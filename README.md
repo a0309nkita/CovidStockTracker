@@ -9,11 +9,11 @@
 7.  Running the tests
 8.  Live demo
 9.  Built with
-10. Contributing
-11. Versioning
-12. Authors
-13. License
-14. Acknowledgments
+ 10. Contributing
+ 11. Versioning
+ 12. Authors
+ 13. License
+ 14. Acknowledgments
 
 # Short description
 
